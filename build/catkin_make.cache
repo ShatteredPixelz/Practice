@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/roboenv/Desktop/RosLearn/devel -DCMAKE_INSTALL_PREFIX=/home/roboenv/Desktop/RosLearn/install -G Unix Makefiles
